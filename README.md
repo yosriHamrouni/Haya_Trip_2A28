@@ -1,4 +1,4 @@
-# Haya Trip (Haya_Trip_2A28)
+# Haya Trip 
 
 Authors: Yosri Hamrouni and project team
 Course / Project: Software Engineering / Integrated Systems (Academic Project)
